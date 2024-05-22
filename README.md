@@ -59,8 +59,8 @@ I wanted to get across how overwhelming it can feel being online in this day and
 I created a word game about explorers, you can enter different branch plots according to the options you choose, and finally find your way home, every time you enter a new scene, it will show a photo of the current scene, I used CogView AI painting, according to the scene description I entered, I drew the corresponding picture, with the help of chatgpt I learned how to implement the multi-button function trigger like this word game, You can determine which option you are clicking by judging the position of the mouse when you click, and you don't need to bind a function to each button, and each button can use an anonymous function to achieve the corresponding function when it is created.
 
 ### 🟪 Stage 5
-- Name/Alias:
+- Name/Alias: Emma
 - Github account:
 - Published webpage for stage 5:
 
-*... comments to be added here*
+*The filtered sunlight featured in the background of the stage three sketch heavily inspired this stage 4 sketch. The previous sketch is based in a forest-like area, so I wanted to lean into that in some way. I’ve always loved the way light looks when it shines through leaves and trees, and overall just sunlight in a forest setting. This sketch is quite simple, I used objects to create the effect of growing and dispersing light. I used a dark green background to contrast with the ‘light’ and to reflect the green of a forest. I used yellow and white points which give the ‘light’ depth. Although light isn't strictly alive, I think this sketch forms and environment or a feel of light in a dark forest.*
