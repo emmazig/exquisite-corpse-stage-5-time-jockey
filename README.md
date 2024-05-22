@@ -61,6 +61,6 @@ I created a word game about explorers, you can enter different branch plots acco
 ### 🟪 Stage 5
 - Name/Alias: Emma
 - Github account:
-- Published webpage for stage 5:
+- Published webpage for stage 5: https://emmazig.github.io/exquisite-corpse-stage-5-time-jockey/
 
 *The filtered sunlight featured in the background of the stage three sketch heavily inspired this stage 4 sketch. The previous sketch is based in a forest-like area, so I wanted to lean into that in some way. I’ve always loved the way light looks when it shines through leaves and trees, and overall just sunlight in a forest setting. This sketch is quite simple, I used objects to create the effect of growing and dispersing light. I used a dark green background to contrast with the ‘light’ and to reflect the green of a forest. I used yellow and white points which give the ‘light’ depth. Although light isn't strictly alive, I think this sketch forms and environment or a feel of light in a dark forest.*
